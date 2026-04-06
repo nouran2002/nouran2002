@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @nouran2002
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I am a Data Analyst with hands-on experience in analyzing sales and product performance, building interactive dashboards, and delivering actionable business insights. 
+I have strong skills in Power BI, SQL, and Excel, and I specialize in turning complex datasets into clear insights that drive decision-making.
 
-<!---
-nouran2002/nouran2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Key strengths:
+- Data Cleaning & Preparation
+- Exploratory Data Analysis
+- Dashboard Design & Data Visualization
+- Business Insights & Storytelling
+
+Completed projects include:
+- AdventureWorks Sales Analysis: Identified key revenue drivers and built dashboards showing regional and product performance.
+- Sephora Product Performance Analysis: Evaluated product profitability and provided actionable recommendations for marketing and inventory strategies.
+
+Looking to contribute my analytical skills to a dynamic organization and help make data-driven business decisions.
